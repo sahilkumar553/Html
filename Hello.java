@@ -4,6 +4,5 @@ class Hello{
     public static void main(String[] args) {
         System.out.println("Sahil kumar Gupta");
         System.out.println(new Date());
-        System.out.println("my Name is This ");
     }
 }
