@@ -7,7 +7,7 @@ public class PrintArray {
         for (int i = 0; i < numbers.length; i++) {
             System.out.println("Element at index " + i + ": " + numbers[i]);
         }
-        int max=0;
+        int max=5;
         for(int i=0;i<numbers.length;i++){
             max=Math.max(max,numbers[i]);
         }
